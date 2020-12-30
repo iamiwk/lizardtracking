@@ -1,6 +1,6 @@
 # USAGE
-# python ball_tracking.py --video ball_tracking_example.mp4
-# python ball_tracking.py
+# python lizard_tracking.py --video videoname.mp4
+# python lizar_tracking.py
 
 # import the necessary packages
 from collections import deque
